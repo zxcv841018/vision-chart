@@ -1,0 +1,14 @@
+{
+  "name": "3e24efe862e766a2",
+  "main": "3e24efe862e766a2@324.js",
+  "version": "324.0.0",
+  "homepage": "https://observablehq.com/d/3e24efe862e766a2",
+  "author": {
+    "name": "susan lin",
+    "url": "https://observablehq.com/@susan-lin"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
